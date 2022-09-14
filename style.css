@@ -1,7 +1,36 @@
-
 body {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background-color: #FFAFCC
+
+    font-family: 'Dancing Script', 'Franklin Gothic Medium', 'Arial Narrow';
+    background-image: url(https://www.eucolo.com.br/wp-content/uploads/2017/07/papel-de-parede-adesivo-chevron-rosa-verde-e-cinza-2.jpg);
+    text-align: center;
 }
 
+h1 {
+    color: rgb(244, 35, 139);
+    font-size: 70px;
+}
 
+#minhafoto{
+    border-radius: 200px;
+    border-color: rgb(244, 35, 139);
+    border-style: double;
+    border-width: 10px;
+}
+
+#resumo {
+    font-size: 20px;
+    color: rgb(23, 121, 136);
+}
+
+.lista {
+    font-size: 20px;
+    color: rgb(23, 121, 136);
+}
+
+#linkedin{
+    width: 10px;
+}
+
+.fotos {
+  
+}
