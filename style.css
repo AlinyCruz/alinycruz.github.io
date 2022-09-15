@@ -1,6 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+
 body {
 
-    font-family: 'Dancing Script', 'Franklin Gothic Medium', 'Arial Narrow';
+    font-family: 'Dancing Script', cursive;
     background-image: url(https://www.eucolo.com.br/wp-content/uploads/2017/07/papel-de-parede-adesivo-chevron-rosa-verde-e-cinza-2.jpg);
     text-align: center;
 }
@@ -18,12 +20,12 @@ h1 {
 }
 
 #resumo {
-    font-size: 20px;
+    font-size: 30px;
     color: rgb(23, 121, 136);
 }
 
 .lista {
-    font-size: 20px;
+    font-size: 30px;
     color: rgb(23, 121, 136);
 }
 
