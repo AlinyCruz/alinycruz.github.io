@@ -6,33 +6,90 @@ body {
     background-image: url(https://www.eucolo.com.br/wp-content/uploads/2017/07/papel-de-parede-adesivo-chevron-rosa-verde-e-cinza-2.jpg);
     text-align: center;
 }
-
-h1 {
-    color: rgb(244, 35, 139);
-    font-size: 60px;
+#meu-nome{
+    position: fixed;
+    z-index: 1;
+    background-color: rgb(253, 199, 211);
+    width: 100%;
+    left: 0%;
+    top: 0%;
+    padding-top: 10px;
+    color: rgb(23, 121, 136);
+    font-size: 30px;
+    
 }
 
-#minhafoto{
+img{
     border-radius: 200px;
-    border-color: rgb(244, 35, 139);
+}
+
+#minha-foto{
+    position: absolute;
+    margin-left: 3%;
+    margin-top: 210px;
+    border-radius: 200px;
+    border-color: rgb(23, 121, 136);
     border-style: double;
     border-width: 10px;
 }
 
-#resumo {
+
+#descricao-eu{
+    position: absolute;
+    padding: 50px;
+    margin-left: 33%;
+    margin-right: 3%;
+    margin-top: 200px;
     font-size: 30px;
     color: rgb(23, 121, 136);
+    line-height: 60px;
+    background-color: rgb(253, 199, 211);
+    opacity: 0.8;
+    border-radius: 15%;
 }
 
-.lista {
+#lista {
+    position: absolute;
+    margin-top: 780px;
+    margin-left: 8%;
     font-size: 30px;
     color: rgb(23, 121, 136);
+    list-style: none;
+    line-height: 40px;
+    
+}
+
+#video{
+    display: flex;
+    position: absolute;
+    width: 20px;
+    margin-left: 45%;
+    top: 850px;
+    z-index: 1;
 }
 
 #linkedin{
-    width: 10px;
+    display: flex;
+    position: absolute;
+    width: 20px;
+    margin-left: 70%;
+    top: 850px;
+    z-index: 2;
 }
 
-.fotos {
-  
+#footer{
+    position: absolute;
+    width: 8.3%;
+    left: 0%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 80%;
+    background-color: rgb(253, 199, 211);
+    padding: 20px 580px;
+    border-top: 1px solid rgb(138, 137, 137);
+}
+
+
+#rodape{
+    text-
+    
 }
