@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://username.github.io/app-toot-name",
+  "homepage": "https://alinycruz.github.io/app-toot-name",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
