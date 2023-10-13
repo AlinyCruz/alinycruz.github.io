@@ -6,7 +6,7 @@
 ">Olá, seja bem vindo(a)!!!
 <br>
 <br>
-<img height="180em" align="center" src="../Aline_Portifolio/src/img/minions.gif"/>
+<img height="180em" align="center" src="src/img/minions.gif"/>
 
 <h2 align="center" style="font-family: 'Dancing Script', cursive;
 ">Este é o meu portfolio, e é através dele que você saberá um pouco de mim e os projetos já realizados.
