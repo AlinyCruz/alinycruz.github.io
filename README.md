@@ -11,12 +11,22 @@
 <h2 align="center" style="font-family: 'Dancing Script', cursive;
 ">Este é o meu portfolio, e é através dele que você saberá um pouco de mim e os projetos já realizados.
 
-<a href="https://www.canva.com/design/DAFMP7bQH0o/kIhqt2O4P2P6bZAOekNZwA/watch?utm_content=DAFMP7bQH0o&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel"
-    target="_blank"><img width="150px"
-    src=https://3.bp.blogspot.com/-Sv6BlbpbD2o/WUwYZH_ASVI/AAAAAAAAJhU/RBDAuCFiHYcNrZLOMXoJ7xUwfPsD-o2qACEwYBhgL/s1600/QUEM-SOU-EU.png
-    alt="Sobre-mim"></a>
+<table align="center">
+    <tr>
+        <td>
+            <a href="https://www.canva.com/design/DAFMP7bQH0o/kIhqt2O4P2P6bZAOekNZwA/watch?utm_content=DAFMP7bQH0o&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel"
+                target="_blank"><img width="150px"
+                src=https://3.bp.blogspot.com/-Sv6BlbpbD2o/WUwYZH_ASVI/AAAAAAAAJhU/RBDAuCFiHYcNrZLOMXoJ7xUwfPsD-o2qACEwYBhgL/s1600/QUEM-SOU-EU.png
+                alt="Sobre-mim"></a>
+        </td>
+        <td>
+            <a href="https://alinycruz.github.io/"
+                target="_blank"><img width="150px" 
+                src=https://s3.amazonaws.com/ibc-portal/wp-content/uploads/2017/10/19140245/portfolio-como-fazer1.jpg
+                alt="Portfolio"></a>
+        </td>
+    </tr>
+<table>
 
-<a href="https://alinycruz.github.io/"
-    target="_blank"><img width="150px" 
-    src=https://s3.amazonaws.com/ibc-portal/wp-content/uploads/2017/10/19140245/portfolio-como-fazer1.jpg
-    alt="Portfolio"></a>
+
+
