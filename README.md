@@ -9,7 +9,7 @@
 <img height="180em" align="center" src="https://blog.controlle.com/wp-content/uploads/2017/05/minions.gif"/>
 
 <h2 align="center" style="font-family: 'Dancing Script', cursive;
-">Este é o meu portfolio, e é através dele que você saberá um pouco de mim e os projetos já realizados.
+">Este é o meu portfolio, onde contém minhas informações pessoais e profissionais. Clique e confira!!!
 <br>
 <br>
 <table align="center">
