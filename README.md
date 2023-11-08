@@ -10,7 +10,7 @@
 
 <h2 align="center" style="font-family: 'Dancing Script', cursive;
 ">Este é o meu portfolio, e é através dele que você saberá um pouco de mim e os projetos já realizados.
-
+<br/>
 <table align="center">
     <tr>
         <td>
