@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://AlinyCruz.github.io/alinycruz.github.io",
+  "homepage": "https://alinycruz.github.io",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
