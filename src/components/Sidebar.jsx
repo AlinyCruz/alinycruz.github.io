@@ -1,7 +1,7 @@
 import avatar from '../img/avatar.jpg'
 import InformationContent from './InformationContent'
 import SocialNetworks from './SocialNetworks'
-//import Curriculo_Aline_Cruz from '/pdf/Currículo_AlineCruz.pdf'
+import Curriculo_Aline_Cruz from '/pdf/Currículo_AlineCruz.pdf'
 import '../styles/components/sidebar.sass'
 
 const Sidebar = () => {
@@ -11,7 +11,7 @@ const Sidebar = () => {
       <p className="title">Desenvolvedora Web</p>
       <SocialNetworks />
       <InformationContent />
-      <a href="/pdf/Currículo_AlineCruz.pdf" className="btn" download="Currículo_AlineCruz">
+      <a href={Curriculo_Aline_Cruz} className="btn" download="Currículo_AlineCruz">
         Download currículo
       </a>
     </aside>
