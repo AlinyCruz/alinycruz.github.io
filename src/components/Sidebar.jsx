@@ -1,7 +1,7 @@
 import avatar from '../img/avatar.jpg'
 import InformationContent from './InformationContent'
 import SocialNetworks from './SocialNetworks'
-import Curriculo_Aline_Cruz from '/pdf/Currículo_AlineCruz.pdf'
+import Curriculo_Aline_Cruz from 'src/pdf/Currículo_AlineCruz.pdf'
 import '../styles/components/sidebar.sass'
 
 const Sidebar = () => {
